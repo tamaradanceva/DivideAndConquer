@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: a7ebc2ddf51e56b48a2650558325c236
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature|Arm_L.001
+    100004: Armature|Arm_L.002
+    100006: Armature|Arm_R.001
+    100008: Armature|Arm_R.002
+    100010: Armature|Body
+    100012: Armature|Bone_L.004
+    100014: Armature|Bone_R.004
+    100016: Armature|Hip_L
+    100018: Armature|Hip_R
+    100020: Armature|Leg_L.001
+    100022: Armature|Leg_L.002
+    100024: Armature|Leg_R.001
+    100026: Armature|Leg_R.002
+    100028: Armature|Shoulder_L
+    100030: Armature|Shoulder_R
+    100032: Body
+    100034: Cube
+    100036: Cylinder
+    100038: Cylinder.001
+    100040: Head
+    100042: //RootNode
+    100044: Lamp
+    100046: Left Arm
+    100048: Shoulder.000
+    100050: Shoulder.001
+    100052: Torso
+    100054: Upper Left Leg
+    100056: Upper Left Leg.001
+    400000: Armature
+    400002: Armature|Arm_L.001
+    400004: Armature|Arm_L.002
+    400006: Armature|Arm_R.001
+    400008: Armature|Arm_R.002
+    400010: Armature|Body
+    400012: Armature|Bone_L.004
+    400014: Armature|Bone_R.004
+    400016: Armature|Hip_L
+    400018: Armature|Hip_R
+    400020: Armature|Leg_L.001
+    400022: Armature|Leg_L.002
+    400024: Armature|Leg_R.001
+    400026: Armature|Leg_R.002
+    400028: Armature|Shoulder_L
+    400030: Armature|Shoulder_R
+    400032: Body
+    400034: Cube
+    400036: Cylinder
+    400038: Cylinder.001
+    400040: Head
+    400042: //RootNode
+    400044: Lamp
+    400046: Left Arm
+    400048: Shoulder.000
+    400050: Shoulder.001
+    400052: Torso
+    400054: Upper Left Leg
+    400056: Upper Left Leg.001
+    2300000: Body
+    2300002: Cube
+    2300004: Cylinder
+    2300006: Cylinder.001
+    2300008: Head
+    2300010: Left Arm
+    2300012: Shoulder.000
+    2300014: Shoulder.001
+    2300016: Torso
+    2300018: Upper Left Leg
+    2300020: Upper Left Leg.001
+    3300000: Body
+    3300002: Cube
+    3300004: Cylinder
+    3300006: Cylinder.001
+    3300008: Head
+    3300010: Left Arm
+    3300012: Shoulder.000
+    3300014: Shoulder.001
+    3300016: Torso
+    3300018: Upper Left Leg
+    3300020: Upper Left Leg.001
+    4300000: Cube
+    4300002: Left Arm
+    4300004: Body
+    4300006: Upper Left Leg.001
+    4300008: Cylinder.001
+    4300010: Upper Left Leg
+    4300012: Head
+    4300014: Cylinder
+    4300016: Torso
+    4300018: Shoulder.001
+    4300020: Shoulder.000
+    7400000: Armature|Melee
+    7400002: Armature|Run
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
